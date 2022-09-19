@@ -38,3 +38,20 @@
     color: #000;
     transition: all 0.50s;
 }
+@media screen and (max-width: 320px){
+    .botao {
+        width: 130px;
+        margin-left: 11px;
+        margin-right: 4px;
+    }
+    .img {
+        width: 307px;
+        height: 307px;
+        padding-top: 100px;
+    }
+    .timer {
+        font-size: 130px;
+        margin-top: -229px;
+        color: #fff;
+    }
+}
