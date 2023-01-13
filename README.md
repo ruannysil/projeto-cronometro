@@ -11,7 +11,7 @@ Projeto Cronometro.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212436477-c1419a78-bf13-4f32-8cd2-0f87c7fa8154.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212436477-c1419a78-bf13-4f32-8cd2-0f87c7fa8154.jpg" width="700px">
 </p>
 
 <br>
